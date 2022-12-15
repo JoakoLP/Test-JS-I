@@ -11,3 +11,10 @@ function imprimir() {
 }
 
 imprimir();
+
+
+
+// 1
+// 4
+// 3
+// 2
